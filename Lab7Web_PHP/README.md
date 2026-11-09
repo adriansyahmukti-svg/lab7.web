@@ -104,3 +104,27 @@ Berikut adalah penjelasan fungsional dari masing-masing komponen latihan:
 
 
 * Menyediakan tombol Reset berbasis client-side (browser) serta kotak penanganan kesalahan (error-box) dan ringkasan sukses success-box secara dinamis.
+
+
+DOKUMENTASI:
+
+
+![img](img/1.png)
+
+![img](img/2.png)
+
+![img](img/3.png)
+
+![img](img/4.png)
+
+![img](img/5.png)
+
+![img](img/6.png)
+
+![img](img/7.png)
+
+![img](img/8.png)
+
+![img](img/9.png)
+
+![img](img/10.png)
